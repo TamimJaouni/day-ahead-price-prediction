@@ -3,6 +3,17 @@
 Testing different machine learning models to predict the day-ahead electricity price in Germany.
 
 
+
+ ### Inputs:
+Forecasted Solar, Forecasted Wind Onshore, Forecasted Wind Offshore, Today's Gas Prices, Forecasted Load, A 24 hour lag of the Forecasted Load, Co2 Certificate Prices, A 24 hour lag of the Day-ahead price, A 48 hour lag of the Day-ahead price
+
+
+
+### Target Variable
+Day-ahead-price
+
+
+
 ### Key Features
 - Data preprocessing in Excel (cleaning, visualisation)
 - Python for:
@@ -10,12 +21,16 @@ Testing different machine learning models to predict the day-ahead electricity p
   - Model training (XGBoost, Random Forest, LSTM, etc.)
   - Evaluation (MSE) 
 
+
+
 ### Tech Stack
 - **Language:** Python  
 - **IDE:** Visual Studio Code  
-- **Data:** Excel (.xlsx)  
+- **Data:** Excel (.xlsx)
 
 
+
+ 
 ###  How to Run
 1. Clone the repository:
    ```bash
