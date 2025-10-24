@@ -24,9 +24,9 @@ Day-ahead-price
 
 
 ### Tech Stack
-- **Language:** Python  
+- **Data Preprocessing:** Excel (.xlsx)
+- **Machine Learning:** Python  
 - **IDE:** Visual Studio Code  
-- **Data:** Excel (.xlsx)
 
 
 
