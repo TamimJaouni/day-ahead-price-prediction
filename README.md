@@ -1,11 +1,11 @@
-# Day-Ahead Electricity Price Prediction ⚡
+# Day-Ahead Electricity Price Prediction
 
 Testing different machine learning models to predict the day-ahead electricity price in Germany.
 
 
 
  ### Inputs:
-Forecasted Solar, Forecasted Wind Onshore, Forecasted Wind Offshore, Today's Gas Prices, Forecasted Load, A 24 hour lag of the Forecasted Load, Co2 Certificate Prices, A 24 hour lag of the Day-ahead price, A 48 hour lag of the Day-ahead price
+Forecasted Solar, Forecasted Wind Onshore, Forecasted Wind Offshore, Yesterday's Gas Prices, Forecasted Load, A 24 hour lag of the Forecasted Load, Co2 Certificate Prices, 24 hour lagged of the Day-ahead price, A one week lagged of the Day-ahead price
 
 
 
