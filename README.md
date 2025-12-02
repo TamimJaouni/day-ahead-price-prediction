@@ -35,11 +35,11 @@ Hyperparameter tuning
 Dependency modelling for probabilistic forecasting and stress testing
 
 ## Main Focus
-Probabilistic Forecasting
+### Probabilistic Forecasting
 
 Use the best-performing model with day-ahead input forecasts as mean estimates. Model residual uncertainty using an error copula to generate coherent scenarios, producing a point forecast and confidence intervals.
 
-Stress Testing
+### Stress Testing
 
 Manual Stress Test:
 Set extreme values for selected variables independent of historical dependencies.
