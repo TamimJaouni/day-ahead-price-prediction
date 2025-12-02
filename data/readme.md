@@ -4,28 +4,25 @@
 1. Forecasted Solar
 2. Forecasted Wind Onshore
 3. Forecasted Wind Offshore
-4. Today's Gas Prices
-5. Forecasted Load
-6. A 24 hour lag of the Forecasted Load
-7. Co2 Certificate Prices
-8. A 24 hour lag of the Day-ahead price
-9. A 48 hour lag of the Day-ahead price
+4. Forecasted Load
+5. Today's Gas Prices
+6. Today's Co2 Certificate Prices
+7. A 24 hour lag of solar
+9. A 24 hour lag of Wind Onshore
+10. A 24 hour lag of Wind Offshore
+11. A 24 hour lag of the Forecasted Load
+12. A 24 hour lag of the Day-ahead price
+13. A 1 week lag of the Day-ahead price
    
 
 ### Target Variable
+
 
 - Day-ahead-price
 
 
 ### Data Source
 
+https://www.energy-charts.info/
 
-Forecasted Solar, Forecasted Wind Onshore, Forecasted Wind Ofshore, Forecasted Load , Day-ahead-price
-  from: https://www.energy-charts.info/
-
-Today's Gas Prices: 
-  from: ?? 
-
-Data for Co2 Certificate Price from:  
-  https://tradingeconomics.com/commodity/carbon
 
