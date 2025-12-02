@@ -22,9 +22,9 @@ Adding variable lags
 
 ### PowerPoint:
 
-Trend visualisation
+Time-series visualization of all input variables and the day-ahead price from 2019 to 2024
 
-Variable dependency overview
+Visualization of the dependency structure between variables
 
 ### Python:
 
